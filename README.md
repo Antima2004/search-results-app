@@ -7,7 +7,7 @@ This is a responsive **Search Results Page** developed as part of my academic as
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the live project on Vercel](https://vercel.com/antima2004s-projects/search-results-app)
+👉 [Click here to view the live project on Vercel](https://search-results-app.vercel.app/)
 
 ---
 
