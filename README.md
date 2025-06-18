@@ -48,20 +48,31 @@ You can start editing the page by modifying app/page.jsx. The page auto-updates 
 
 You can start editing the page by modifying app/page.jsx. The page auto-updates as you edit the file.
 
+---
+
 ##🧩 Tech Stack
-Next.js (App Router)
-Tailwind CSS
-[Mock Data (local JSON)]
-Vercel for deployment
+ Next.js (App Router)
+
+ Tailwind CSS
+
+ [Mock Data (local JSON)]
+
+ Vercel for deployment
+
+---
 
 ##✨ Features
+
 🔎 Live search with autosuggestions
 🏷️ Tag filtering
 📱 Fully responsive UI
 💡 Clean and modern design
 🧪 Mock data for frontend testing
 
+---
+
 ##📁 Folder Structure
+
 .
 ├── app/
 │   ├── page.jsx         # Main page with search UI
@@ -76,17 +87,22 @@ Vercel for deployment
 ├── tailwind.config.js
 └── README.md
 
+---
 
 ##📦 Deployment
 This project is deployed on Vercel.
 
 👉 Deploy your own Next.js app
 
+---
+
 ##📖 Learn More
 To learn more about the technologies used:
 Next.js Documentation
 Tailwind CSS Docs
 Learn Next.js Interactive Tutorial
+
+---
 
 🙋‍♀️ Author
 Made with ❤️ by Antima Mishra
