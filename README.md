@@ -1,36 +1,103 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🔍 Search Results Page – Assignment Submission
 
-## Getting Started
+This is a responsive **Search Results Page** developed as part of my academic assignment. It features live search with autosuggestions, tag filtering, and mock data handling — built using **Next.js App Router** and **Tailwind CSS**.
 
-First, run the development server:
+---
+
+## 🌐 Live Demo
+
+👉 [Click here to view the live project on Vercel](https://vercel.com/antima2004s-projects/search-results-app)
+
+---
+
+## 📚 Project Objective
+
+The goal of this assignment was to:
+
+- Implement a **search input** with real-time **autosuggestions**
+- Enable filtering search results using **tags**
+- Build a **responsive layout** for results display
+- Use **mock data** to simulate real-world data filtering
+- Apply **Next.js App Router** and **Tailwind CSS** effectively
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
 
 ```bash
+git clone https://github.com/Antima2004/search-results-app.git
+cd search-results-app
+
+##2. Install Dependencies
+npm install
+# or
+yarn install
+
+##3. Run the Development Server
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+You can start editing the page by modifying app/page.jsx. The page auto-updates as you edit the file.Open http://localhost:3000 with your browser to see the result.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+You can start editing the page by modifying app/page.jsx. The page auto-updates as you edit the file.
 
-## Learn More
+##🧩 Tech Stack
+Next.js (App Router)
+Tailwind CSS
+[Mock Data (local JSON)]
+Vercel for deployment
 
-To learn more about Next.js, take a look at the following resources:
+##✨ Features
+🔎 Live search with autosuggestions
+🏷️ Tag filtering
+📱 Fully responsive UI
+💡 Clean and modern design
+🧪 Mock data for frontend testing
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+##📁 Folder Structure
+.
+├── app/
+│   ├── page.jsx         # Main page with search UI
+│   └── layout.jsx       # Global layout
+├── components/          # Reusable UI components
+│   ├── SearchBar.jsx
+│   └── TagFilter.jsx
+├── data/
+│   └── mockData.js      # Mock search data
+├── public/
+├── styles/              # Tailwind CSS styles
+├── tailwind.config.js
+└── README.md
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+##📦 Deployment
+This project is deployed on Vercel.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+👉 Deploy your own Next.js app
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+##📖 Learn More
+To learn more about the technologies used:
+Next.js Documentation
+Tailwind CSS Docs
+Learn Next.js Interactive Tutorial
+
+🙋‍♀️ Author
+Made with ❤️ by Antima Mishra
+
+
+
+
+
+
+
+
+
+
+
+
+
