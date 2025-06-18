@@ -50,7 +50,7 @@ You can start editing the page by modifying app/page.jsx. The page auto-updates 
 
 ---
 
-##🧩 Tech Stack
+🧩 Tech Stack
  Next.js (App Router)
 
  Tailwind CSS
@@ -61,7 +61,7 @@ You can start editing the page by modifying app/page.jsx. The page auto-updates 
 
 ---
 
-##✨ Features
+✨ Features
 
 🔎 Live search with autosuggestions
 🏷️ Tag filtering
@@ -71,8 +71,8 @@ You can start editing the page by modifying app/page.jsx. The page auto-updates 
 
 ---
 
-##📁 Folder Structure
-
+📁 Folder Structure
+php
 .
 ├── app/
 │   ├── page.jsx         # Main page with search UI
@@ -89,14 +89,14 @@ You can start editing the page by modifying app/page.jsx. The page auto-updates 
 
 ---
 
-##📦 Deployment
+📦 Deployment
 This project is deployed on Vercel.
 
 👉 Deploy your own Next.js app
 
 ---
 
-##📖 Learn More
+📖 Learn More
 To learn more about the technologies used:
 Next.js Documentation
 Tailwind CSS Docs
