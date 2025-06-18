@@ -1,3 +1,4 @@
+
 # 🔍 Search Results Page – Assignment Submission
 
 This is a responsive **Search Results Page** developed as part of my academic assignment. It features live search with autosuggestions, tag filtering, and mock data handling — built using **Next.js App Router** and **Tailwind CSS**.
@@ -29,56 +30,51 @@ The goal of this assignment was to:
 ```bash
 git clone https://github.com/Antima2004/search-results-app.git
 cd search-results-app
+```
 
-##2. Install Dependencies
+### 2. Install Dependencies
+
+```bash
 npm install
 # or
 yarn install
+```
 
-##3. Run the Development Server
+### 3. Run the Development Server
+
+```bash
 npm run dev
 # or
 yarn dev
-
 ```
 
-Open http://localhost:3000 with your browser to see the result.
-
-You can start editing the page by modifying app/page.jsx. The page auto-updates as you edit the file.Open http://localhost:3000 with your browser to see the result.
-
-You can start editing the page by modifying app/page.jsx. The page auto-updates as you edit the file.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.  
+You can start editing the page by modifying `app/page.jsx`. The page auto-updates as you edit the file.
 
 ---
 
-🧩 Tech Stack
+## 🧩 Tech Stack
 
- Next.js (App Router)
-
- Tailwind CSS
-
- [Mock Data (local JSON)]
-
- Vercel for deployment
+- **Next.js (App Router)**
+- **Tailwind CSS**
+- **Mock Data** (local JSON)
+- **Vercel** for deployment
 
 ---
 
-✨ Features
+## ✨ Features
 
-🔎 Live search with autosuggestions
-
-🏷️ Tag filtering
-
-📱 Fully responsive UI
-
-💡 Clean and modern design
-
-🧪 Mock data for frontend testing
+- 🔎 Live search with autosuggestions  
+- 🏷️ Tag filtering  
+- 📱 Fully responsive UI  
+- 💡 Clean and modern design  
+- 🧪 Mock data for frontend testing  
 
 ---
 
-📁 Folder Structure
+## 📁 Folder Structure
 
-php
+```
 .
 ├── app/
 │   ├── page.jsx         # Main page with search UI
@@ -92,36 +88,27 @@ php
 ├── styles/              # Tailwind CSS styles
 ├── tailwind.config.js
 └── README.md
+```
 
 ---
 
-📦 Deployment
-This project is deployed on Vercel.
+## 📦 Deployment
 
-👉 Deploy your own Next.js app
+This project is deployed on **Vercel**.  
+👉 You can easily deploy your own Next.js app with a single click using Vercel.
 
 ---
 
-📖 Learn More
+## 📖 Learn More
+
 To learn more about the technologies used:
-Next.js Documentation
-Tailwind CSS Docs
-Learn Next.js Interactive Tutorial
+
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Tailwind CSS Docs](https://tailwindcss.com/docs)
+- [Learn Next.js Interactive Tutorial](https://nextjs.org/learn)
 
 ---
 
-🙋‍♀️ Author
-Made with ❤️ by Antima Mishra
+## 🙋‍♀️ Author
 
-
-
-
-
-
-
-
-
-
-
-
-
+Made with ❤️ by **Antima Mishra**
