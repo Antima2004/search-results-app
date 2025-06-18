@@ -51,6 +51,7 @@ You can start editing the page by modifying app/page.jsx. The page auto-updates 
 ---
 
 🧩 Tech Stack
+
  Next.js (App Router)
 
  Tailwind CSS
@@ -64,9 +65,13 @@ You can start editing the page by modifying app/page.jsx. The page auto-updates 
 ✨ Features
 
 🔎 Live search with autosuggestions
+
 🏷️ Tag filtering
+
 📱 Fully responsive UI
+
 💡 Clean and modern design
+
 🧪 Mock data for frontend testing
 
 ---
